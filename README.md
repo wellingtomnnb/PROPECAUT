@@ -3,6 +3,7 @@ Repositório para desenvolvimento de Atividades relacionadas ao curso de Mestrad
 
 - **Disciplina:** *Reconhecimento de Padrões*
 
-## Lista 1
+## Lista 1 
+Entregue em 20/01/25
 - [x] EDA - Exploratory Data Analysis
-- [ ] PCA - Principal Component Analysis
+- [x] PCA - Principal Component Analysis
