@@ -12,3 +12,7 @@ Entregue em 20/01/25
 ## Lista 2
 Entregue em 03/02/25
 - [x] SVM, kNN, DECISION TREE e CNN
+
+## Lista 3
+Entregue em 03/02/25
+- [X] COMBINAÇÃO DE CLASSIFICADORES
