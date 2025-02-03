@@ -16,3 +16,7 @@ Entregue em 03/02/25
 ## Lista 3
 Entregue em 03/02/25
 - [X] COMBINAÇÃO DE CLASSIFICADORES
+
+## Lista 4
+Entregue em 03/02/25
+- [X] Clustering
