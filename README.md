@@ -7,3 +7,8 @@ Repositório para desenvolvimento de Atividades relacionadas ao curso de Mestrad
 Entregue em 20/01/25
 - [x] EDA - Exploratory Data Analysis
 - [x] PCA - Principal Component Analysis
+
+
+## Lista 2
+Entregue em 03/02/25
+- [x] SVM, kNN, DECISION TREE e CNN
