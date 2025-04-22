@@ -11,3 +11,5 @@ Repositório para desenvolvimento de Atividades relacionadas ao curso de Mestrad
 ## Prática 4
 - [x] PDS_PDI-aula4/pratica04/pratica04.ipynb
 
+## Prática 4
+- [x] aula6_ pds_pdi/pratica05/pratica05.ipynb
