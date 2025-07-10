@@ -16,3 +16,6 @@ Repositório para desenvolvimento de Atividades relacionadas ao curso de Mestrad
 
 ## Prática 5
 - [x] aula6_ pds_pdi/pratica05/pratica05.ipynb
+
+## Prática 6
+- [x] pratica06/pratica06.ipynb
