@@ -8,8 +8,11 @@ Repositório para desenvolvimento de Atividades relacionadas ao curso de Mestrad
 ## Prática 2
 - [x] PDS_PDI_aula_2/pratica02/pratica02.ipynb
 
+## Prática 3
+- [x] /pratica03/pratica03.ipynb
+
 ## Prática 4
 - [x] PDS_PDI-aula4/pratica04/pratica04.ipynb
 
-## Prática 4
+## Prática 5
 - [x] aula6_ pds_pdi/pratica05/pratica05.ipynb
